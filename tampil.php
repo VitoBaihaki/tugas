@@ -2,7 +2,7 @@
   include'database.php';
   $db= new database();
 ?>
-<h1>DATA MAHASISWA</h1>
+<h1>DATA MAHASISWA POLITEKNIK CALTEX RIAU </h1>
 <a href="input.php">Input Data</a>
 <table border="1">
   <tr>
